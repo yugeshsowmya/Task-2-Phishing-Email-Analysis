@@ -1,0 +1,12 @@
+UPS Failed Delivery Attempt
+UPS eNotification <amazon@update-nt.com>
+
+Dear,
+We have attempted to deliver your item!
+The delivery attempt failed because nobody was present at the shipping address,so this notification has been automatically sent. You may arrange re-delivery by visiting the nearest UPS office with printed shipping invoice mentioned below.
+If the package is not scheduled for delivery or picked up within 48 hours, it will be returned to the sender.
+
+TRACKING NUMBER: 2W FOWPZX 5587729907
+Expected Deliver Date: 11/24/2020
+Class:Package services
+Service(s): Delivery Confirmation

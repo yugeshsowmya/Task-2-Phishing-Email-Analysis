@@ -1,0 +1,11 @@
+Return-Path: <amazon@update-nt.com>
+Received: from unknown (HELO update-nt.com) (185.243.112.45)
+  by mail.example.com with SMTP;
+  Tue, 24 Nov 2020 17:42:01 +0000
+From: UPS eNotification <amazon@update-nt.com>
+To: <your-email@example.com>
+Subject: UPS Failed Delivery Attempt
+Date: Tue, 24 Nov 2020 17:42:01 +0000
+Message-ID: <20201124174201.1234567890@update-nt.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"

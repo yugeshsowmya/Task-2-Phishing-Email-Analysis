@@ -1,0 +1,35 @@
+Phishing Indicators Identified:
+
+1.Suspicious Sender Address
+	->Displays as “UPS eNotification” but the actual email is: amazon@update-nt.com
+	->This is not an official UPS domain.
+
+2.Mismatched Branding
+	->Email pretends to be from UPS but claims to come from “Amazon notification” in the sender address.
+
+3.Urgency / Pressure
+	->“If not picked up within 48 hours, it will be returned”
+	->Classic social-engineering tactic to force quick action.
+
+4.Suspicious Tracking Link
+	->The tracking number link is not shown as a real UPS domain.
+	->Potential malicious hyperlink.
+
+5.Generic Greeting
+	->The email says: “Dear,” with no name — typical in phishing emails.
+
+6.Grammar & Formatting Issues
+	->Missing space after commas.
+	->Awkward phrasing (“Expected Deliver Date”).
+7.Header Authentication Failures (from MXToolbox)
+❌ DMARC Failed
+❌ SPF Failed
+❌ DKIM Failed
+These failures indicate the email did NOT come from a legitimate mail server.
+
+8.Suspicious Mail Server IP
+	->Header shows sending server IP: 185.243.112.45
+	->Not associated with UPS or Amazon.
+
+9.Unusual Domain
+	->update-nt.com is unrelated to UPS.
